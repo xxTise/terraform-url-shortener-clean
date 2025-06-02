@@ -1,0 +1,28 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Lambda build artifact
+lambda_function_payload.zip
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+crash.log
+terraform.tfvars
+*.backup
+
+# Python virtual environments (just in case)
+venv/
+.env/
+.envrc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
