@@ -150,7 +150,7 @@ terraform apply
 ## 👨🏽‍💻 Author
 
 **Tise Ogundeji**  
-Cloud Engineer in training | Entrepreneur | AWS Enthusiast  
+Cloud Engineer | Entrepreneur | AWS Enthusiast  
 🌍 [LinkedIn](https://www.linkedin.com/in/tise-ogundeji-a08890246)  
 🐙 [GitHub](https://github.com/xxTise)
 
